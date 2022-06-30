@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "clone-spotify",
+    "slug": "clone-spotify",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

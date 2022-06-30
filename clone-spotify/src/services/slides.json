@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Podcasts originais e exclusivos do Spotify",
+        "itens": [{
+            "photo":"https://img.estadao.com.br/resources/jpg/4/4/1649113606144.jpg",
+            "subtitle": {
+                "title": "Batman Despertar",
+                "description": "Show • Warner Bros./ Spotify Studios"
+            }
+        },  {
+            "photo":"https://i.scdn.co/image/ab6765630000ba8a9312666d34ce950ce7c5fe63",
+            "subtitle": {
+                "title": "Não Ouvo Podecasts",
+                "description": "Show • Não Salvo"    
+            } 
+        
+        }, {
+            "photo": "https://i.scdn.co/image/ab6765630000ba8af5d7fc3528c19f4ce60d3b6f",
+            "subtitle": {
+                "title": "Paciente 63",
+                "description": "Spotify Studios"
+            }
+        }]
+    }, {
+        "title": "Em alta agora",
+        "itens": [{
+            "photo": "https://i0.wp.com/popnow.com.br/wp-content/uploads/2022/06/HAJA-COLIRIO-CAPA-FINAL-scaled.jpg?resize=740%2C740&ssl=1",
+            "subtitle": {
+                "title": "Haja Colírio (feat. Hugo & Guilherme)[Ao Vivo]",
+                "description": "Single • GUilherme & Benuto"
+            }
+        },  {
+            "photo": "https://i.scdn.co/image/ab67616d00001e02086844b598487b24c473b5ef",
+            "subtitle": {
+                "title": "Jovens do Reggae",
+                "description": "Single • Kawe, WIU, Original Quality"
+            }
+        },  {
+            "photo": "https://m.media-amazon.com/images/I/51bewQwJbaL._UXNaN_FMjpg_QL85_.jpg",
+            "subtitle": {
+                "title": "Deixa Ela Em Paz",
+                "description": "Single e Bruno & Marrone, Henrique & Juliano"
+            }
+        }
+        ]    
+    }
+]
